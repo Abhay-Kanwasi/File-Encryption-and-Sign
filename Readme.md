@@ -12,3 +12,6 @@ Step3 :  `python3 enc_and_sign.py`<br />
    Then it will ask for file to sign(enc_<file_name>) then provide encrypted file to sign <br /><br />
 Step4 :  `python3 verify_and_decrypt`<br />
    It will ask for file for sign verification and if provided it will give us a new file for decryption.
+
+
+<b>Note:</b> This code will generate unique keys signature everytime you can't use anything twice
